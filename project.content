@@ -82,4 +82,5 @@ Test_serviceSoap12\TestClassArray_2InputArray.xml
 Test_serviceSoap12\transfer_array.xml
 Test_serviceSoap12\transfer_XML.xml
 Test_serviceSoap12\Vse.xml
+REST-Service-1\%2Fget.xml
 TestSuite-1\TestCase-1.xml
